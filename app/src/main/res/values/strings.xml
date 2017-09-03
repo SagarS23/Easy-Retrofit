@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EasyRetrofit</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="no_data_available">No data available</string>
+</resources>
